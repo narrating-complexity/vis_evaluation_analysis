@@ -5,9 +5,11 @@ Authors: Yiwen Xing, Gabriel D. Cantareira, Rita Borgo, and Alfie Abdul-Rahman.
 
 ## How to use this repository
 
-This repository contains a .csv file with basic information from several IEEE VIS papers (e.g., title, authors, year) and coding information from assigning their evaluation practices different categorical or quantitative properties (e.g., evaluation goals and methods, number of participants, stage of development). This data file also has a few papers with multiple rows, representing papers that contain multiple evaluation steps.
+This repository contains: 
 
-This repository also contains a Python notebook with code for conducting certain statistical analysis on this data as described in our research paper, "A Comprehensive Analysis of Evaluation Practices in VIS Domain Applications".
+* A .csv file with basic information from several IEEE VIS papers (e.g., title, authors, year) and coding information from assigning their evaluation practices different categorical or quantitative properties (e.g., evaluation goals and methods, number of participants, stage of development). This data file also has a few papers with multiple rows, representing papers that contain multiple evaluation steps.
+
+* A Python notebook with code for conducting certain statistical analysis on this data as described in our research paper, "A Comprehensive Analysis of Evaluation Practices in VIS Domain Applications".
 
 To run this code, we recommend a Python notebook environment running Python 3.12.
 
